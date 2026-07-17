@@ -6,6 +6,18 @@ description:Destiny 2 wishlist for stuff
 dimwishlist:item=331231237&perks=839105230,3868766766,2223032959,1067908860
 
 
+// Sullen Claw (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=1085743380&perks=766579919,125241418,1618208178,147913470,2957461671
+dimwishlist:item=1085743380&perks=766579919,125241418,3418165135,147913470,2957461671
+
+
+// Sullen Claw (pve)
+//notes: tags:pve
+dimwishlist:item=1085743380&perks=1618208178,147913470,2957461671
+dimwishlist:item=1085743380&perks=3418165135,147913470,2957461671
+
+
 // Threat Level (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=1523151869&perks=2371713880,1783397184,331667533,3251326479,2407733996
