@@ -1,6 +1,12 @@
 title:Cosmos' Wishlist
 description:Destiny 2 wishlist for stuff
 
+// Mint Retrograde - Burst Dmg (god-pve)
+//notes: CRAZY good all around mid/far range non precision dmg (u want acc assault on it ) tags:god-pve
+dimwishlist:item=42435996&perks=1563455254,496047945
+dimwishlist:item=42435996&perks=1563455254,2963273944
+
+
 // Finality's Auger (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=331231237&perks=839105230,3868766766,2223032959,1067908860
@@ -53,12 +59,32 @@ dimwishlist:item=2452936816&perks=2817499044,598607952,4232410959
 dimwishlist:item=2452936816&perks=2817499044,984655331,4232410959
 
 
+// Cusp Sempiternal - Best Void Sup Auto (god-pve)
+//notes: Better sustain (with team) than reckless (repulsor) and 25% dmg boost with circle of life (less than chaos x2's 35%) tags:god-pve
+dimwishlist:item=2579693381&perks=1871180748,3267421167,4070834277,674546187,943022827
+dimwishlist:item=2579693381&perks=1871180748,3267421167,4070834277,2904194311,943022827
+dimwishlist:item=2579693381&perks=1871180748,3267421167,3878366039,674546187,943022827
+dimwishlist:item=2579693381&perks=1871180748,3267421167,3878366039,2904194311,943022827
+dimwishlist:item=2579693381&perks=1871180748,3267421167,2813913866,674546187,943022827
+dimwishlist:item=2579693381&perks=1871180748,3267421167,2813913866,2904194311,943022827
+
+
 // Yeartide Apex - Sustain + AO (god-pve)
 //notes: top tier with AO/healclip, and chaos reshaped (or incan for adclear) tags:god-pve
 dimwishlist:item=3293207827&perks=4223976499,1817983009,1043703792
 dimwishlist:item=3293207827&perks=4223976499,2675184851,1043703792
 dimwishlist:item=3293207827&perks=984655331,1817983009,1043703792
 dimwishlist:item=3293207827&perks=984655331,2675184851,1043703792
+
+
+// Something Something - Ammo Dump (god-pve)
+//notes: Out dmgs praedyth's with accelerated assault origin tags:god-pve
+dimwishlist:item=3421075982&perks=573122728,496047945
+dimwishlist:item=3421075982&perks=573122728,1545231802
+dimwishlist:item=3421075982&perks=573122728,3251326479
+dimwishlist:item=3421075982&perks=906981559,496047945
+dimwishlist:item=3421075982&perks=906981559,1545231802
+dimwishlist:item=3421075982&perks=906981559,3251326479
 
 
 // Festival Flight - Area Denial (god-pve)
@@ -71,12 +97,33 @@ dimwishlist:item=4019651319&perks=3250572790,2108812838,1906147653,984655331,119
 dimwishlist:item=4019651319&perks=3250572790,2108812838,1906147653,859780267,1198287879
 
 
+// Conspiracy Honed - OP Sniper (god-pve)
+//notes: best legendary sniper tags:god-pve
+dimwishlist:item=4062069077&perks=1454612425,3418165135,395388285,2957461671
+dimwishlist:item=4062069077&perks=1454612425,3418165135,3744057135,2957461671
+dimwishlist:item=4062069077&perks=226831738,3418165135,395388285,2957461671
+dimwishlist:item=4062069077&perks=226831738,3418165135,3744057135,2957461671
+
+
 // Gizmo Weft - Movement + DMG (god-pve)
 //notes: BIS for dmg rotation BGL and for grenade jumping tags:god-pve
 dimwishlist:item=4069880346&perks=3291427296,2282937672,250902314
 dimwishlist:item=4069880346&perks=3291427296,3192447905,250902314
 dimwishlist:item=4069880346&perks=2817499044,2282937672,250902314
 dimwishlist:item=4069880346&perks=2817499044,3192447905,250902314
+
+
+// Perfect Paradox - Good QOL Shotgun (god-pve)
+//notes: Top tier qol shotgun (gets ammo back on melee) tags:god-pve
+dimwishlist:item=4108648762&perks=1011551830,788178929,3212300392
+dimwishlist:item=4108648762&perks=1011551830,2459015849,3212300392
+dimwishlist:item=4108648762&perks=1011551830,3251326479,3212300392
+dimwishlist:item=4108648762&perks=536173722,788178929,3212300392
+dimwishlist:item=4108648762&perks=536173722,2459015849,3212300392
+dimwishlist:item=4108648762&perks=536173722,3251326479,3212300392
+dimwishlist:item=4108648762&perks=494941759,788178929,3212300392
+dimwishlist:item=4108648762&perks=494941759,2459015849,3212300392
+dimwishlist:item=4108648762&perks=494941759,3251326479,3212300392
 
 
 // False Idols (god-pve)
